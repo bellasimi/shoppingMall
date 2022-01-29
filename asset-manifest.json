@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shoppingMall/static/css/main.3743efd1.css",
+    "main.js": "/shoppingMall/static/js/main.94b906c8.js",
+    "static/css/928.5aa7c520.chunk.css": "/shoppingMall/static/css/928.5aa7c520.chunk.css",
+    "static/js/928.1d946a10.chunk.js": "/shoppingMall/static/js/928.1d946a10.chunk.js",
+    "static/js/377.258414c3.chunk.js": "/shoppingMall/static/js/377.258414c3.chunk.js",
+    "static/js/983.7f99551d.chunk.js": "/shoppingMall/static/js/983.7f99551d.chunk.js",
+    "static/media/keyboard.jpg": "/shoppingMall/static/media/keyboard.46941913c0191303b301.jpg",
+    "static/media/ipod.jpg": "/shoppingMall/static/media/ipod.cb5d9d1771525636902d.jpg",
+    "static/media/apple.jpg": "/shoppingMall/static/media/apple.b043ac5998f728d98b51.jpg",
+    "static/media/iphone.jpg": "/shoppingMall/static/media/iphone.cb43a7c0d6b208ca0c2e.jpg",
+    "static/media/logo.svg": "/shoppingMall/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shoppingMall/index.html",
+    "main.3743efd1.css.map": "/shoppingMall/static/css/main.3743efd1.css.map",
+    "main.94b906c8.js.map": "/shoppingMall/static/js/main.94b906c8.js.map",
+    "928.5aa7c520.chunk.css.map": "/shoppingMall/static/css/928.5aa7c520.chunk.css.map",
+    "928.1d946a10.chunk.js.map": "/shoppingMall/static/js/928.1d946a10.chunk.js.map",
+    "377.258414c3.chunk.js.map": "/shoppingMall/static/js/377.258414c3.chunk.js.map",
+    "983.7f99551d.chunk.js.map": "/shoppingMall/static/js/983.7f99551d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3743efd1.css",
+    "static/js/main.94b906c8.js"
+  ]
+}
