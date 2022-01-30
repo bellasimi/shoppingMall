@@ -1,0 +1,29 @@
+$bgColor: #eee;
+
+@mixin loading(){
+    margin: auto;
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+    background: $bgColor;
+
+    p {
+        position: relative;
+        top: 30px;
+        font-size: 20pt;
+        font-weight: bold;
+    }
+}
+
+.loading {
+    @include loading;
+
+}
+
+.loading2 {
+    @extend .loading;
+        p {
+            color: blue;
+        }
+
+}

@@ -1,0 +1,56 @@
+$mainColor : white;
+
+.black {
+    background-color: $mainColor;
+}
+
+@mixin 함수() {
+    background: #eeeeee;
+    padding: 10px;
+    border-radius: 5px;
+    //max-width : 500px;
+    width: 100%;
+    margin: auto auto 20px auto;
+    p {
+        margin-bottom: 0px;
+    }
+}
+
+.my-alert {
+    @include 함수();
+}
+
+.my-alert2 {
+    @extend .my-alert;
+    background: #ffe591;
+}
+
+.yesTab-enter {
+    opacity: 0; /* 투명도 */
+    font-size: 30pt;
+}
+
+.yesTab-enter-active {
+    opacity: 1;
+    transition: all 500ms;
+}
+
+/*
+div.container h4 {
+    color : blue;
+}
+
+
+div.container p {
+    color : green;
+}
+
+div.container {
+    h4 {
+        color : blue;
+    }
+    p {
+        color : green;
+    }
+} */
+
